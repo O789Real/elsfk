@@ -1,0 +1,37 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]/
+/[Build]/
+/[Builds]/
+/[Logs]/
+/[UserSettings]/
+
+# Visual Studio 自动生成文件
+.vs/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity 自动生成文件
+sysinfo.txt
+*.apk
+*.unitypackage
+*.bundle
+
+# 日志文件
+*.log
+
+# 这里的 Packages 不要忽略，但里面的资源通常不需要手动提交
+# 除非是本地自定义包
